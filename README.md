@@ -1,1 +1,1 @@
-# card-designer
+# card-designer-bric
